@@ -13,20 +13,20 @@ and lockout after 3 wrong attempts.
 ## Screenshots
 
 ### Successful login
-![success](succ%201.png)
+![success](screenshots/succ%201.png)
 
 ### Result page
-![result](result%201.png)
+![result](screenshots/result%201.png)
 
 ### Empty fields
-![empty fields](empty%20fields.png)
+![empty fields](screenshots/empty%20fields.png)
 
 ### Wrong password
-![wrong password](wrong%20password.png)
+![wrong password](screenshots/wrong%20password.png)
 
 ### User not found
-![user not found](user%20not%20found.png)
+![user not found](screenshots/user%20not%20found.png)
 
 ### Locked after 3 failed attempts
-![locked](locked%20after%20failed%20attempts.png)
+![locked](screenshots/locked%20after%20failed%20attempts.png)
 
