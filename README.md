@@ -12,7 +12,7 @@ and lockout after 3 wrong attempts.
 
 ## Screenshots
 
-### Successful login
+### login
 [success](screenshots/succ%201.png)
 
 ### Result page
