@@ -13,16 +13,16 @@ and lockout after 3 wrong attempts.
 ## Screenshots
 
 ### Successful login
-![success](succ%201.png)
+
 
 ### Result page
-![result](result%201.png)
+
 
 ### Empty fields
-![empty fields](empty%20fields.png)
+
 
 ### Wrong password
-![wrong password](wrong%20password.png)
+
 
 ### User not found
 ![user not found](user%20not%20found.png)
