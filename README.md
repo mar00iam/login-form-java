@@ -25,7 +25,7 @@ and lockout after 3 wrong attempts.
 
 
 ### User not found
-![user not found](user%20not%20found.png)
+
 
 ### Locked after 3 failed attempts
-![locked](locked%20after%20failed%20attempts.png)
+
