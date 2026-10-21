@@ -1,32 +1,57 @@
-# Login Form (Java AWT)
+<div align="center">
 
-Simple login form with hard-coded users, input validation,
-and lockout after 3 wrong attempts.
+# 🔐 Login Form
 
-## Test users
-| Username | Password | Role |
-|---|---|---|
-| ahmed | 1234 | Student |
-| sara | abcd | TA |
-| drmohamed | pass123 | Professor |
+### login form built with Java ☕
 
-## Screenshots
+</div>
 
-### login
-[success](screenshots/succ%201.png)
+---
 
-### Result page
-[result](screenshots/result%201.png)
+## ✨ Features
 
-### Empty fields
-[empty fields](screenshots/empty%20fields.png)
+- ✅ Checks that no field is empty
+- 👤 Checks that the user exists
+- 🔑 Checks that the password and role are correct
+- 💬 Shows a simple error message when something is wrong
+- 🚫 Locks the Login button after **3** wrong attempts
+- 👋 Shows a welcome page with the user's name and role
 
-### Wrong password
-[wrong password](screenshots/wrong%20password.png)
+---
 
-### User not found
-[user not found](screenshots/user%20not%20found.png)
+## 🧪 Test users
 
-### Locked after 3 failed attempts
-[locked](screenshots/locked%20after%20failed%20attempts.png)
+| 👤 Username | 🔑 Password | 🎓 Role |
+|:---:|:---:|:---:|
+| `ahmed` | `1234` | Student |
+| `sara` | `abcd` | TA |
+| `drmohamed` | `pass123` | Professor |
+
+> 💡 Don't forget to pick the matching role from the dropdown!
+
+---
+
+## 🚀 How to run
+
+Compile with `javac LoginFormTask.java`, then run with `java LoginFormTask`.
+
+---
+
+## 📸 Screenshots
+
+All screenshots are inside the **screenshots** folder:
+
+- 🎉 Successful login
+- 📭 Empty fields
+- ❌ Wrong password
+- 🔍 User not found
+- 🔒 Locked after 3 failed attempts
+
+---
+
+<div align="center">
+
+Made by **Mariam Mostafa**💙
+
+</div>
 
